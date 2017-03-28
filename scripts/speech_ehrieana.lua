@@ -30,7 +30,7 @@ return {
 	ANNOUNCE_CHARLIE = "What was that?!",
 	ANNOUNCE_CHARLIE_ATTACK = "OW! Something bit me!",
 	ANNOUNCE_COLD = "So cold!",
-	ANNOUNCE_HOT = "Need... ice... or... shade!",
+	ANNOUNCE_HOT = "Need to cool off!",
 	ANNOUNCE_CRAFTING_FAIL = "I don't have all of the ingredients.",
 	ANNOUNCE_DEERCLOPS = "That sounded big!",
 	ANNOUNCE_DUSK = "It's getting late. It will be dark soon.",
@@ -38,7 +38,7 @@ return {
 	{
 		GENERIC = "Yum!",
 		PAINFUL = "I don't feel so good.",
-		SPOILED = "Yuck! That was terrible!",
+		SPOILED = "Yuck! Disgusting!",
 		STALE = "I think that was starting to turn.",
 		INVALID = "I can't eat that!",
 	},
@@ -74,7 +74,7 @@ return {
 	ANNOUNCE_TORCH_OUT = "My light just ran out!",
 	ANNOUNCE_TRAP_WENT_OFF = "Oops.",
 	ANNOUNCE_UNIMPLEMENTED = "OW! I don't think it's ready yet.",
-	ANNOUNCE_WORMHOLE = "That was not a sane thing to do.",
+	ANNOUNCE_WORMHOLE = "That was a crazy thing to do.",
 	ANNOUNCE_CANFIX = "\nI think I can fix this!",
 	ANNOUNCE_ACCOMPLISHMENT = "I feel so accomplished!",
 	ANNOUNCE_ACCOMPLISHMENT_DONE = "If only my friends could see me now...",	
@@ -82,16 +82,16 @@ return {
 	ANNOUNCE_TOOL_SLIP = "Wow that tool is slippery!",
 	ANNOUNCE_LIGHTNING_DAMAGE_AVOIDED = "Safe from that frightening lightning!",
 
-	ANNOUNCE_DAMP = "Oh, H2O.",
-	ANNOUNCE_WET = "My clothes appear to be permeable.",
+	ANNOUNCE_DAMP = "So moist.",
+	ANNOUNCE_WET = "I need to dry off.",
 	ANNOUNCE_WETTER = "Water way to go!",
-	ANNOUNCE_SOAKED = "I've nearly reached my saturation point.",
+	ANNOUNCE_SOAKED = "I'm soaking wet.",
 	
 	BATTLECRY =
 	{
 		GENERIC = "Go for the eyes!",
 		PIG = "Here piggy piggy!",
-		PREY = "I will destroy you!",
+		PREY = "I will end you!",
 		SPIDER = "I'm going to stomp you dead!",
 		SPIDER_WARRIOR = "Better you than me!",
 	},

@@ -1,6 +1,6 @@
 -- This information tells other players more about the mod
 name = "Happy Birthday!"
-description = "Adds Ehrieana playable character and craftable pepperoni rolls!"
+description = "Adds Ehrieana playable character and cookable pepperoni rolls!"
 author = "Cookie"
 version = "1.0.0" -- This is the version of the template. Change it to your own number.
 
